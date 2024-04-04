@@ -5,7 +5,7 @@
 - 스프링 기술 그 자체에 매몰되기보다는, 스프링을 실무에서 어떻게 사용해야 하는지에 초점을 맞춥니다.
 - 코드를 직접 작성하고 돌려보면서 웹 개발할 때 기술이 어떻게 상요되는지 스프링 개발의 전반적인 감을 잡습니다.
 
-## 목차
+## 📋 목차
 1. [프로젝트 환경 설정](https://github.com/muyaaho/spring-start/blob/main/docs/01%20%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%ED%99%98%EA%B2%BD%20%EC%84%A4%EC%A0%95.md)
 2. [스프링 웹 개발 기초](https://github.com/muyaaho/spring-start/blob/main/docs/02%20%EC%8A%A4%ED%94%84%EB%A7%81%20%EC%9B%B9%20%EA%B0%9C%EB%B0%9C%20%EA%B8%B0%EC%B4%88.md)
 3. [회원 관리 예제 - 백엔드 개발](https://github.com/muyaaho/spring-start/blob/main/docs/03%20%ED%9A%8C%EC%9B%90%20%EA%B4%80%EB%A6%AC%20%EC%98%88%EC%A0%9C%20-%20%EB%B0%B1%EC%97%94%EB%93%9C%20%EA%B0%9C%EB%B0%9C.md)
