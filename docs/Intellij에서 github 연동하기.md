@@ -11,7 +11,7 @@ or Version control - Share Project On - Github
 
     
 
-    레포지토리를 설정하고 나면 자동으로 초기 커밋을 하는 창이 뜬다.
+    레포지토리를 설정하고 나면 자동으로 stage에 모든 코드를 추가하는 창이 뜬다.
         <img src=https://github.com/muyaaho/spring-basic/assets/76798969/7a97643e-2917-45d0-89d8-667cb6000cb2) width="50%" height="50%"/><br>
 
 3. intellij에서 commit 하기, commit log 확인하기
