@@ -11,10 +11,10 @@ or Version control - Share Project On - Github
 
     
 
-    레포지토리를 설정하고 나면 자동으로 stage에 모든 코드를 추가하는 창이 뜬다.
+    아래 창이 자동으로 뜨는데 `Add` 버튼을 누르면 커밋과 push가 동시에 된다.
         <img src=https://github.com/muyaaho/spring-basic/assets/76798969/7a97643e-2917-45d0-89d8-667cb6000cb2) width="50%" height="50%"/><br>
 
-3. intellij에서 commit 하기, commit log 확인하기
+4. intellij에서 commit 하기, commit log 확인하기
    ![image](https://github.com/muyaaho/spring-basic/assets/76798969/c691a6da-20cd-4a70-9449-deb55f562c2e)
 
 
@@ -22,7 +22,7 @@ or Version control - Share Project On - Github
 
 
 
-4. 메뉴 창에서 pull(Update Project), Push, 브랜치 관리 하기
+5. 메뉴 창에서 pull(Update Project), Push, 브랜치 관리 하기
    ![image](https://github.com/muyaaho/spring-basic/assets/76798969/bc589bf7-e94b-4175-8eae-761e10a330b2)
  
 
