@@ -8,7 +8,7 @@
 
 ## 📋 목차
 1. [인터넷 네트워크](https://github.com/muyaaho/http-basic/blob/main/docs/1.%20Internet-network.md)
-2. [URI와 웹 브라우저 효청 흐름](https://github.com/muyaaho/http-basic/blob/main/docs/2.url-webbrowser.md)
+2. [URI와 웹 브라우저 요청 흐름](https://github.com/muyaaho/http-basic/blob/main/docs/2.url-webbrowser.md)
 3. [HTTP 기본](https://github.com/muyaaho/http-basic/blob/main/docs/3.http.md)
 4. [HTTP 메서드](https://github.com/muyaaho/http-basic/blob/main/docs/4.http-method.md)
 5. [HTTP 메서드 활용](https://github.com/muyaaho/http-basic/blob/main/docs/5.http-method-use.md)
