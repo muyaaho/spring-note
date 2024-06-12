@@ -11,3 +11,6 @@ extends한 클래스의 메소드를 자동으로 생성해준다.
 ### `Ctrl + Alt + Shift + T` → `Extract Method...` 선택
 
 함수를 자동으로 분리해준다.
+
+### `Ctrl + Shift + T`
+테스트 코드 생성
