@@ -14,3 +14,10 @@ extends한 클래스의 메소드를 자동으로 생성해준다.
 
 ### `Ctrl + Shift + T`
 테스트 코드 생성
+
+### `Ctrl + E`
+최근 이동한 파일 확인
+
+<img src=https://github.com/muyaaho/spring-mvc1/assets/76798969/c4130e60-7253-46da-9272-b67774da98f4 width="50%" height="50%"/><br>
+
+바로 엔터키 누르면 바로 직전에 있었던 파일로 이동할 수 있다.
