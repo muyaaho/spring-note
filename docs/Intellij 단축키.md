@@ -42,7 +42,22 @@ Inline
 
 ### [`Ctrl + Alt + B`](https://www.jetbrains.com/help/idea/navigating-through-the-source-code.html#go_to_implementation)
 구현체로 이동
+
 ![image](https://github.com/muyaaho/spring-mvc1/assets/76798969/0978b3fb-088b-4226-81b6-f8871f31037d)
+
+### `/ + ** + enter`
+주석 생성
+```
+    /**
+     *
+     * @param paramMap
+     * @param model
+     * @return viewName
+     */
+```
+
+### `F2`
+오류가 있는 곳으로 이동한다.
 
 
 <br><br><br><br><br><br><br>
